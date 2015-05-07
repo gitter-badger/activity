@@ -1,4 +1,4 @@
-* **[tweets](https://github.com/b0101/gistssofar/issues?q=is%3Aissue+is%3Aclosed)**
+* **[tweets](https://github.com/b0101/activity/issues?q=is%3Aissue+is%3Aclosed)**
 * [今年の状況](diary-2015.md)
 
 
