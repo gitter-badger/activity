@@ -5,3 +5,14 @@
 
 
 質問やコメントなどががある方は、お好きなようにissueを立てたり、コメントしたりして下さい。 :smile:
+
+### 見立て
+
+github | SNS
+----- | -----
+issue | 一つの話題
+issueのコメント | ツィート
+close issue | 話題（問題）収束
+diaryファイル | 日誌
+milestone | キリのいい区切り
+label | タグ
