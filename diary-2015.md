@@ -1,3 +1,4 @@
+* 2015-05-12: 自宅マシンとnexusのpairing
 * 2015-05-12: emacsにmultiple-cursorsを導入
 * 2015-05-12: 音楽CDを焼く方法を理解した
 * 2015-05-11: braseroの使用を諦める
