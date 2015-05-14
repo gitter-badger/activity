@@ -1,3 +1,4 @@
+* 2015-05-14: Wayland上のgtk3アプリでibusが使えない問題解決
 * 2015-05-13: SoI&F CoK 6章読了
 * 2015-05-12: 自宅マシンとnexusのpairing
 * 2015-05-12: emacsにmultiple-cursorsを導入
