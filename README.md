@@ -10,9 +10,9 @@
 
 github | SNS
 ----- | -----
-issue | 一つの話題
+[issue](https://github.com/b0101/activity/issues) | 一つの話題
 issueのコメント | ツィート
 close issue | 話題（問題）収束
-diaryファイル | 日誌
+[diaryファイル](diary-2015.md) | 日誌
 milestone | キリのいい区切り
 label | タグ
