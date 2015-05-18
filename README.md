@@ -15,4 +15,4 @@ issueのコメント | その話題に関するツィート
 close issue | 話題（問題）収束
 [diaryファイル](diary-2015.md) | 日誌
 [milestone](https://github.com/b0101/activity/milestones) | キリのいい区切り
-[label](https://github.com/b0101/activity/labels) | タグ
+[label](https://github.com/b0101/activity/labels) | ハッシュタグ
