@@ -4,7 +4,7 @@
 * [今年の状況](diary-2015.md) ([Blame](https://github.com/b0101/activity/blame/master/diary-2015.md)を使って見ると、対応するissueに飛べるので便利です）
 
 
-質問やコメントなどががある方は、お好きなようにissueを立てたり、コメントしたりして下さい。 :smile:
+質問やコメントなどある方は、お好きなようにissueを立てたり、コメントしたりして下さい。:smile:
 
 ### 見立て
 
