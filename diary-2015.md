@@ -1,9 +1,9 @@
-* 2015-06-05: [slack log exporter](https://gist.github.com/b0101/05a2632b8b9c3b082be2)
+* 2015-06-05: [slack log exporter](https://gist.github.com/630E6617/05a2632b8b9c3b082be2)
 * 2015-06-05: 人工知能学会誌, vol.28, no.3、読了
 * 2015-06-02: 大西泰斗、英文法を壊す、読了
 * 2015-06-01: グインサーガ136 イリスの炎 読了
 * 2015-05-31: Mediumの投稿を持って来て、アカウントを削除した
-* 2015-05-25: Linux用サウンドレコーダーに[時間設定機能追加](https://gist.github.com/b0101/88a6896cf6df5b970e74)
+* 2015-05-25: Linux用サウンドレコーダーに[時間設定機能追加](https://gist.github.com/630E6617/88a6896cf6df5b970e74)
 * 2015-05-24: SoI&F CoK 11章読了
 * 2015-05-23: Accelerate-llvmの論文読む
 * 2015-05-22: 2012年度人工知能学会誌読了
