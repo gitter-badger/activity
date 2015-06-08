@@ -1,3 +1,4 @@
+* 2015-06-08: 人工知能学会誌、vol.28, no.6, 読了
 * 2015-06-06: 人工知能学会誌、vol.28, no.5, 読了
 * 2015-06-06: SoI&F CoK 12章読了
 * 2015-06-05: [slack log exporter](https://gist.github.com/630E6617/05a2632b8b9c3b082be2)
