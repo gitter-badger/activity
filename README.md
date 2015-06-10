@@ -2,6 +2,7 @@
 
 * [tweets](https://github.com/b0101/activity/issues?q=is%3Aissue+is%3Aclosed)
 * [今年の状況](diary-2015.md) ([Blame](https://github.com/b0101/activity/blame/master/diary-2015.md)を使って見ると、対応するissueに飛べるので便利です）
+* [dump my activity to twitter via ifttt](https://twitter.com/630E6617)
 
 
 質問やコメントなどある方は、お好きなようにissueを立てたり、コメントしたりして下さい。:smile:
